@@ -1,0 +1,7 @@
+project_id = "searce-playground"
+name = "rahul-tf-testing-vm1"
+machine_type = "e2-small"
+zone = "asia-south1-a"
+region = "asia-south1"
+network = "rahul-gl-vpc"
+subnetwork = "rahul-private-subnet-south1"
